@@ -1,3 +1,5 @@
-master b
+<<<<<<< HEAD
+fixed
+>>>>>>> conflict
 test202
 test303
