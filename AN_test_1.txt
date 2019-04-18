@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-fixed
->>>>>>> conflict
 test202
+test404
 test303
